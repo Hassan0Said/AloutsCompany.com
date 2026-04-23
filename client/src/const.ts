@@ -26,7 +26,7 @@ export const PRODUCTS = [
     titleEn: 'Automatic Potato Washing Machine',
     descriptionAr: 'آلة غسيل متقدمة بتقنية حديثة لتنظيف البطاطس بكفاءة عالية وسرعة',
     descriptionEn: 'Advanced washing machine with modern technology for efficient and fast potato cleaning',
-    image: '../src/images/one.jpg',
+    image: one,
   },
   {
     id: 'potato-washing-2',
