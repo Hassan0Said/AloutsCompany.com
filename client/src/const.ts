@@ -22,11 +22,11 @@ export const PRODUCTS = [
   {
     id: 'potato-washing-1',
     category: 'potatoWashing',
-    titleAr: 'آلة غسيل البطاطس الأوتوماتيكية',
+    titleAr: 'آلة_غسيل البطاطس الأوتوماتيكية',
     titleEn: 'Automatic Potato Washing Machine',
     descriptionAr: 'آلة غسيل متقدمة بتقنية حديثة لتنظيف البطاطس بكفاءة عالية وسرعة',
     descriptionEn: 'Advanced washing machine with modern technology for efficient and fast potato cleaning',
-    image: '../src/images/آلة غسيل البطاطس الأوتوماتيكية.jpg',
+    image: '../src/images/آلة_غسيل_البطاطس_الأوتوماتيكية.jpg',
   },
   {
     id: 'potato-washing-2',
@@ -35,7 +35,7 @@ export const PRODUCTS = [
     titleEn: 'Specialized Potato Separator',
     descriptionAr: 'فاصل متقدم لفصل البطاطس حسب الحجم والجودة تلقائياً',
     descriptionEn: 'Advanced separator for automatic sorting potatoes by size and quality',
-    image:'../src/images/فاصل البطاطس المتخصص.jpg',
+    image:'../src/images/فاصل_البطاطس_المتخصص.jpg',
   },
   {
     id: 'potato-washing-3',
@@ -44,7 +44,7 @@ export const PRODUCTS = [
     titleEn: 'Industrial Potato Peeler',
     descriptionAr: 'مقشرة صناعية عالية الإنتاجية لتقشير البطاطس بدقة',
     descriptionEn: 'High-capacity industrial peeler for precise potato peeling',
-    image: '../src/images/مقشرة البطاطس الصناعية.jpg',
+    image: '../src/images/مقشرة_البطاطس_الصناعية.jpg',
   },
   {
     id: 'potato-washing-4',
@@ -53,7 +53,7 @@ export const PRODUCTS = [
     titleEn: 'Potato Cutting Equipment',
     descriptionAr: 'معدات متخصصة لتقطيع البطاطس بأشكال وأحجام مختلفة',
     descriptionEn: 'Specialized equipment for cutting potatoes in various shapes and sizes',
-    image: '../src/images/معدات تقطيع البطاطس.jpeg',
+    image: '../src/images/معدات_تقطيع_البطاطس.jpeg',
   },
   {
     id: 'potato-washing-5',
@@ -62,7 +62,7 @@ export const PRODUCTS = [
     titleEn: 'Complete Potato Processing Lines',
     descriptionAr: 'خطوط معالجة متكاملة من الغسيل إلى التعبئة',
     descriptionEn: 'Integrated processing lines from washing to packaging',
-    image: '../src/images/خطوط معالجة البطاطس الكاملة.jpg',
+    image: '../src/images/خطوط_معالجة_البطاطس.jpg',
   },
 
   // ========== معدات مغاسل الفواكه والخضروات ==========
@@ -73,7 +73,7 @@ export const PRODUCTS = [
     titleEn: 'Fruit and Vegetable Washing Machine',
     descriptionAr: 'آلة غسيل متقدمة للفواكه والخضروات بتقنية الرش والنقع',
     descriptionEn: 'Advanced washing machine for fruits and vegetables with spray and soak technology',
-    image: '../src/images/آلة غسيل الفواكه والخضروات.jpeg',
+    image: '../src/images/آلة_غسيل_الفواكه_والخضروات.jpeg',
   },
   {
     id: 'fruit-veg-2',
@@ -82,7 +82,7 @@ export const PRODUCTS = [
     titleEn: 'Fruit and Vegetable Separator',
     descriptionAr: 'فاصل متخصص لفصل الفواكه والخضروات حسب الحجم والنوع',
     descriptionEn: 'Specialized separator for sorting fruits and vegetables by size and type',
-    image: '../src/images/فاصل الفواكه والخضروات.jpeg',
+    image: '../src/images/فاصل_الفوكهة_المتخصص.jpeg',
   },
   {
     id: 'fruit-veg-3',
@@ -91,7 +91,7 @@ export const PRODUCTS = [
     titleEn: 'Vegetable Cutting Equipment',
     descriptionAr: 'معدات متقدمة لتقطيع الخضروات بأشكال متعددة',
     descriptionEn: 'Advanced equipment for cutting vegetables in multiple shapes',
-    image: '../src/images/معدات تقطيع الخضروات.jpeg',
+    image: '../src/images/معدات_تقطيع_الخضروات.jpeg',
   },
   {
     id: 'fruit-veg-4',
@@ -100,7 +100,7 @@ export const PRODUCTS = [
     titleEn: 'Fruit and Vegetable Drying Equipment',
     descriptionAr: 'معدات متخصصة لتجفيف الفواكه والخضروات بكفاءة عالية',
     descriptionEn: 'Specialized equipment for efficient drying of fruits and vegetables',
-    image: '../src/images/معدات تجفيف الفواكه والخضروات.jpeg',
+    image: '../src/images/معادت_تجفيف_الفواكة_والخضروات.jpeg',
   },
   {
     id: 'fruit-veg-5',
@@ -109,7 +109,7 @@ export const PRODUCTS = [
     titleEn: 'Fruit and Vegetable Processing Lines',
     descriptionAr: 'خطوط معالجة متكاملة للفواكه والخضروات',
     descriptionEn: 'Integrated processing lines for fruits and vegetables',
-    image: '../src/images/خطوط معالجة الفواكه والخضروات.jpeg',
+    image: '../src/images/خطوط_معالجة_الفواكهة_والخضرات.jpeg',
   },
 
   // ========== أنابيب ومواسير ==========
@@ -120,7 +120,7 @@ export const PRODUCTS = [
     titleEn: 'High-Quality PVC Pipes',
     descriptionAr: 'أنابيب PVC بمواصفات عالمية ومتانة عالية جداً',
     descriptionEn: 'PVC pipes with international specifications and excellent durability',
-    image: '../src/images/أنابيب PVC عالية الجودة.jpeg',
+    image: '../src/images/أنابيب_PVC_عالية_الجودة.jpeg',
   },
   {
     id: 'pipes-galvanized-1',
@@ -129,7 +129,7 @@ export const PRODUCTS = [
     titleEn: 'Galvanized Steel Pipes',
     descriptionAr: 'مواسير حديد مجلفن مقاومة للصدأ والتآكل',
     descriptionEn: 'Rust and corrosion-resistant galvanized steel pipes',
-    image: '../src/images/مواسير الحديد المجلفن.jpeg',
+    image: '../src/images/مواسير_الحديد_المجلفن.jpeg',
   },
   {
     id: 'pipes-stainless-1',
@@ -138,7 +138,7 @@ export const PRODUCTS = [
     titleEn: 'Stainless Steel Pipes',
     descriptionAr: 'أنابيب فولاذ مقاوم للصدأ عالية الجودة',
     descriptionEn: 'High-quality stainless steel pipes',
-    image: '../src/images/أنابيب الفولاذ المقاوم للصدأ.jpeg',
+    image: '../src/images/أنابيب_الفولاذ_المقاوم_للصدأ.jpeg',
   },
   {
     id: 'pipes-hdpe-1',
@@ -147,7 +147,7 @@ export const PRODUCTS = [
     titleEn: 'HDPE Pipes',
     descriptionAr: 'أنابيب HDPE مرنة وآمنة للمياه',
     descriptionEn: 'Flexible and safe HDPE pipes for water',
-    image: '../src/images/أنابيب HDPE.jpeg',
+    image: '../src/images/أنابيب_HDPE.jpeg',
   },
   {
     id: 'pipes-fittings-1',
@@ -156,7 +156,7 @@ export const PRODUCTS = [
     titleEn: 'Pipe Fittings and Accessories',
     descriptionAr: 'تجهيزات متكاملة للأنابيب والمواسير من أفضل الماركات',
     descriptionEn: 'Complete pipe fittings and accessories from top brands',
-    image: '../src/images/تجهيزات الأنابيب والمواسير.jpeg',
+    image: '../src/images/تجهيزات_الأنابيب_والمواسير.jpeg',
   },
   {
     id: 'pipes-connectors-1',
@@ -165,7 +165,7 @@ export const PRODUCTS = [
     titleEn: 'Pipe Connectors and Valves',
     descriptionAr: 'وصلات ومحابس عالية الجودة لجميع أنواع الأنابيب',
     descriptionEn: 'High-quality connectors and valves for all pipe types',
-    image: '../src/images/وصلات ومحابس الأنابيب.jpeg',
+    image: '../src/images/وصلات_ومحابس_الأنابيب.jpeg',
   },
 
   // ========== المواد الصحية ==========
@@ -176,7 +176,7 @@ export const PRODUCTS = [
     titleEn: 'Sanitary Bathroom Fixtures',
     descriptionAr: 'تجهيزات حمامات عالية الجودة وآمنة من أفضل الماركات',
     descriptionEn: 'High-quality and safe bathroom fixtures from top brands',
-    image: '../src/images/تجهيزات الحمامات الصحية.jpeg',
+    image: '../src/images/تجهيزات_الحمامات_الصحية.jpeg',
   },
   {
     id: 'sanitary-bathroom-2',
@@ -185,7 +185,7 @@ export const PRODUCTS = [
     titleEn: 'Modern Toilet Seats',
     descriptionAr: 'مقاعد مرحاض حديثة وآمنة بتصاميم متعددة',
     descriptionEn: 'Modern and safe toilet seats with multiple designs',
-    image: '../src/images/مقاعد المرحاض الحديثة.jpeg',
+    image: '../src/images/مقاعد_المرحاض_الحديثة.jpeg',
   },
   {
     id: 'sanitary-bathroom-3',
@@ -194,7 +194,7 @@ export const PRODUCTS = [
     titleEn: 'Bathtubs and Sinks',
     descriptionAr: 'أحواض استحمام ومغاسل عالية الجودة',
     descriptionEn: 'High-quality bathtubs and sinks',
-    image: '../src/images/أحواض الاستحمام والمغاسل.jpeg',
+    image: '../src/images/أحواض_الاستحمام_والمغاسل.jpeg',
   },
   {
     id: 'sanitary-bathroom-4',
@@ -203,7 +203,7 @@ export const PRODUCTS = [
     titleEn: 'Water Mixers and Showers',
     descriptionAr: 'خلاطات مياه وأنظمة دش حديثة وآمنة',
     descriptionEn: 'Modern and safe water mixers and shower systems',
-    image: '../src/images/خلاطات المياه والدش.jpeg',
+    image: '../src/images/خلاطات_المياة_والصرف_الصحي.jpeg',
   },
   {
     id: 'sanitary-bathroom-5',
@@ -212,7 +212,7 @@ export const PRODUCTS = [
     titleEn: 'Ventilation and Lighting Systems',
     descriptionAr: 'أنظمة تهوية وإضاءة متخصصة للحمامات',
     descriptionEn: 'Specialized ventilation and lighting systems for bathrooms',
-    image: '../src/images/أنظمة التهوية والإضاءة.jpeg',
+    image: '../src/images/أنظمة_التهوية_والإضاءة.jpeg',
   },
 
   // ========== معدات معالجة المياه ==========
@@ -223,7 +223,7 @@ export const PRODUCTS = [
     titleEn: 'Water Treatment Equipment',
     descriptionAr: 'معدات متخصصة لمعالجة وتنقية المياه بكفاءة عالية',
     descriptionEn: 'Specialized equipment for water treatment and purification with high efficiency',
-    image: '../src/images/معدات معالجة المياه.jpeg',
+    image: '../src/images/معدات_معالجة_المياة.jpeg',
   },
   {
     id: 'water-treatment-2',
@@ -232,7 +232,7 @@ export const PRODUCTS = [
     titleEn: 'Water Desalination Systems',
     descriptionAr: 'أنظمة تحلية مياه متقدمة وفعالة',
     descriptionEn: 'Advanced and efficient water desalination systems',
-    image: '../src/images/أنظمة تحلية المياه.jpeg',
+    image: '../src/images/أنظمة_تحلية_المياة.jpeg',
   },
   {
     id: 'water-treatment-3',
@@ -241,7 +241,7 @@ export const PRODUCTS = [
     titleEn: 'Advanced Water Filters',
     descriptionAr: 'مرشحات مياه متقدمة لتنقية شاملة',
     descriptionEn: 'Advanced water filters for comprehensive purification',
-    image: '../src/images/مرشحات المياه المتقدمة.jpeg',
+    image: '../src/images/مرشحات_المياه_المتقدمة.jpeg',
   },
   {
     id: 'water-treatment-4',
@@ -250,7 +250,7 @@ export const PRODUCTS = [
     titleEn: 'Pumping and Distribution Systems',
     descriptionAr: 'أنظمة ضخ وتوزيع مياه عالية الأداء',
     descriptionEn: 'High-performance water pumping and distribution systems',
-    image: '../src/images/أنظمة الضخ والتوزيع.jpeg',
+    image: '../src/images/أنظمة_الضخ_والتوزيع.jpeg',
   },
   {
     id: 'water-treatment-5',
@@ -259,7 +259,7 @@ export const PRODUCTS = [
     titleEn: 'Water Storage Tanks',
     descriptionAr: 'خزانات تخزين مياه آمنة وموثوقة',
     descriptionEn: 'Safe and reliable water storage tanks',
-    image: '../src/images/خزانات تخزين المياه.jpeg',
+    image: '../src/images/خزانات_تخزين_المياه.jpeg',
   },
 
   // ========== معدات أخرى ==========
@@ -270,7 +270,7 @@ export const PRODUCTS = [
     titleEn: 'Packaging Equipment',
     descriptionAr: 'معدات متخصصة للتعبئة والتغليف الآلي',
     descriptionEn: 'Specialized equipment for automatic packaging',
-    image: '../src/images/معدات التعبئة والتغليف.jpeg',
+    image: '../src/images/معدات_التعبئة_وتالتغليف.jpeg',
   },
   {
     id: 'equipment-other-2',
@@ -279,7 +279,7 @@ export const PRODUCTS = [
     titleEn: 'Cooling and Freezing Equipment',
     descriptionAr: 'معدات تبريد وتجميد عالية الأداء',
     descriptionEn: 'High-performance cooling and freezing equipment',
-    image: '../src/images/معدات التبريد والتجميد.jpeg',
+    image: '../src/images/معدات_التبريد_وتالتجميد.jpeg',
   },
   {
     id: 'equipment-other-3',
@@ -288,7 +288,7 @@ export const PRODUCTS = [
     titleEn: 'Sorting and Grading Equipment',
     descriptionAr: 'معدات متقدمة للفرز والتصنيف التلقائي',
     descriptionEn: 'Advanced equipment for automatic sorting and grading',
-    image: '../src/images/معدات الفرز والتصنيف.jpeg',
+    image: '../src/images/معدات_الفرز_والتصنيف.jpeg',
   },
   {
     id: 'equipment-other-4',
@@ -297,7 +297,7 @@ export const PRODUCTS = [
     titleEn: 'Monitoring and Control Systems',
     descriptionAr: 'أنظمة مراقبة وتحكم ذكية',
     descriptionEn: 'Smart monitoring and control systems',
-    image: '../src/images/أنظمة المراقبة والتحكم.jpeg',
+    image: '../src/images/أنظمة_المراقبة_والتحكم.jpeg',
   },
   {
     id: 'equipment-other-5',
@@ -306,7 +306,7 @@ export const PRODUCTS = [
     titleEn: 'Maintenance and Technical Support',
     descriptionAr: 'خدمات صيانة دورية ودعم فني متخصص',
     descriptionEn: 'Regular maintenance services and specialized technical support',
-    image: '../src/images/خدمات الصيانة والدعم الفني.jpeg',
+    image: '../src/images/خدمات_الصيانة_والدعم_الفني.jpeg',
   },
 
   // ========== معدات السيارات ==========
@@ -317,7 +317,7 @@ export const PRODUCTS = [
     titleEn: 'Automotive Equipment & Maintenance',
     descriptionAr: 'معدات متخصصة لصيانة وإصلاح السيارات',
     descriptionEn: 'Specialized equipment for vehicle maintenance and repair',
-    image: '../src/images/معدات السيارات والصيانة.jpeg',
+    image: '../src/images/معدات_السيارات_والصيانة.jpeg',
   },
 
   // ========== معدات الكي البخاري ==========
@@ -328,7 +328,7 @@ export const PRODUCTS = [
     titleEn: 'Industrial Steam Irons',
     descriptionAr: 'مكاوي بخار عالية الأداء لكي الملابس والأقمشة',
     descriptionEn: 'High-performance steam irons for pressing clothes and fabrics',
-    image: '../src/images/مكاوي البخار الصناعية.jpeg',
+    image: '../src/images/مكاوي_البخار_الصناعية.jpeg',
   },
 
   // ========== معدات الغسيل ==========
@@ -339,7 +339,7 @@ export const PRODUCTS = [
     titleEn: 'Industrial Laundry Equipment',
     descriptionAr: 'معدات غسيل متقدمة للمنشآت والفنادق',
     descriptionEn: 'Advanced laundry equipment for facilities and hotels',
-    image: '../src/images/معدات الغسيل الصناعية.jpeg',
+    image: '../src/images/معدات_الغسيل_الصناعية.jpeg',
   },
 
   // ========== معدات الخياطة ==========
@@ -350,7 +350,7 @@ export const PRODUCTS = [
     titleEn: 'Sewing and Embroidery Equipment',
     descriptionAr: 'معدات خياطة وتطريز احترافية',
     descriptionEn: 'Professional sewing and embroidery equipment',
-    image: '../src/images/معدات الخياطة والتطريز.jpeg',
+    image: '../src/images/معدات_الخياطة_والتطريز.jpeg',
   },
 
   // ========== معدات كهربائية ==========
@@ -361,7 +361,7 @@ export const PRODUCTS = [
     titleEn: 'Electrical Equipment and Tools',
     descriptionAr: 'معدات وأدوات كهربائية عالية الجودة',
     descriptionEn: 'High-quality electrical equipment and tools',
-    image: '../src/images/المعدات والأدوات الكهربائية.jpeg',
+    image: '../src/images/المعدات_والأدوات_الكهربائية.jpeg',
   },
 
   // ========== معدات البناء ==========
@@ -372,7 +372,7 @@ export const PRODUCTS = [
     titleEn: 'Construction Equipment',
     descriptionAr: 'معدات بناء وتشييد متقدمة',
     descriptionEn: 'Advanced construction and building equipment',
-    image: '../src/images/معدات البناء والتشييد.jpeg',
+    image: '../src/images/معدات_البناء_والتشييد.jpeg',
   },
 
   // ========== معدات طبية ==========
@@ -383,7 +383,7 @@ export const PRODUCTS = [
     titleEn: 'Medical Equipment and Devices',
     descriptionAr: 'معدات وأجهزة طبية معتمدة دولياً',
     descriptionEn: 'Internationally certified medical equipment and devices',
-    image: '../src/images/المعدات والأجهزة الطبية.jpeg',
+    image: '../src/images/المعدات_والأجهزة_الطبية.jpeg',
   },
 
   // ========== معدات الوصول والحركة ==========
@@ -394,7 +394,7 @@ export const PRODUCTS = [
     titleEn: 'Accessibility and Mobility Equipment',
     descriptionAr: 'معدات متخصصة لتسهيل الوصول والحركة',
     descriptionEn: 'Specialized equipment for accessibility and mobility',
-    image: '../src/images/معدات الوصول وتسهيل الحركة.jpg',
+    image: '../src/images/معدات_الوصول_وتسهيل_الحركة.jpg',
   },
 ];
 
