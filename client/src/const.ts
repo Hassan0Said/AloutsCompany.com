@@ -69,7 +69,7 @@ export const PRODUCTS = [
   {
     id: 'potato-washing-1',
     category: 'potatoWashing',
-    titleAr: 'آلة_غسيل البطاطس الأوتوماتيكية',
+    titleAr: 'آلة غسيل البطاطس الأوتوماتيكية',
     titleEn: 'Automatic Potato Washing Machine',
     descriptionAr: 'آلة غسيل متقدمة بتقنية حديثة لتنظيف البطاطس بكفاءة عالية وسرعة',
     descriptionEn: 'Advanced washing machine with modern technology for efficient and fast potato cleaning',
