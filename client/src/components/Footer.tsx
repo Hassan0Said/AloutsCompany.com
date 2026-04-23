@@ -72,7 +72,7 @@ export default function Footer() {
                   href={`tel:${CONTACT_INFO.phone}`}
                   className="hover:text-emerald-600 transition-colors"
                 >
-                  {CONTACT_INFO.phone}
+                  <span dir="ltr">{CONTACT_INFO.phone}</span>
                 </a>
               </li>
 

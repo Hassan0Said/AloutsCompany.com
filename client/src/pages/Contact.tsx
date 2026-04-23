@@ -213,7 +213,7 @@ export default function Contact() {
                     <div>
                       <h3 className="font-bold mb-1">{t("common.phone")}</h3>
                       <a href={`tel:${CONTACT_INFO.phone}`}>
-                        {CONTACT_INFO.phone}
+                        <span dir="ltr">{CONTACT_INFO.phone}</span>
                       </a>
                     </div>
                   </div>
