@@ -447,11 +447,11 @@ export const PRODUCTS = [
 
 export const SOCIAL_LINKS = {
   whatsapp: 'https://wa.me/201028288800',
-  email: 'mailalouts@gmail.com',
+  email: 'mamdouhomar@aloutscompany.com',
 };
 
 export const CONTACT_INFO = { 
   phone: '+20 102 828 8800',  
-  email: 'mailalouts@gmail.com',
+  email: 'mamdouhomar@aloutscompany.com',
   address: 'Egypt',
 };
